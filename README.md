@@ -29,4 +29,4 @@ View the [MVP](https://github.com/subhan98/Once-Loved/blob/master/OnceLovedMVP.p
 
 ## Team Charter
 
-View the [Team Charter](Documentation Ideas.pdf)
+View the [Team Charter](https://github.com/pavidshetty/Once-Loved/blob/vjs13012/X-People%20Team%20Charter.docx)

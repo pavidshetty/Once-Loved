@@ -3,7 +3,7 @@
 Our final project is an Android application for exchanging used children's clothing, toys, shoes, etc., in return for similar goods without monetary exchange.  It facilitates an ethical recycling process.
 
 
-# User Stories
+## User Stories
 
 ```
 As a User
@@ -22,3 +22,11 @@ As a User
 I would like to view available items
 To begin exchanging goods
 ```
+
+## Minimum Viable Product
+
+View the [MVP](https://github.com/subhan98/Once-Loved/blob/master/OnceLovedMVP.pdf) domain model
+
+## Team Charter
+
+View the [Team Charter](Documentation Ideas.pdf)
